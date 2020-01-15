@@ -1,2 +1,0 @@
-# ECommerceProject
-Created with CodeSandbox
